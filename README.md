@@ -7,3 +7,5 @@
 * 安装完成后进入安装目录，一般默认在python下的scripts目录下，把wechat+脚本拷贝到该目录下。使用cmd进入到scripts目录，输入命令mitmdump -s WeChat+.py 即可启动app监听
 
 * 打开模拟器，进入微信，随机选择一个公众号，进入全部历史文章，向下滑动翻看历史文章，观察cmd窗口发生变化，即可自动识别该公众号的信息实现自动抓取历史文章。
+
+![展示](https://github.com/xiaohanxxx/WeChat-/blob/master/7A04590F82692E3CF4F0080B3B3F6366.gif "效果展示")
