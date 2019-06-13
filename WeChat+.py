@@ -9,10 +9,7 @@ import xlrd
 ##import excel_style # 自制库
 from mitmproxy import ctx
 import random
-import os
 
-os.system("ipconfig")
-input("")
 
 def response(flow):
     # 初始化excel文件
